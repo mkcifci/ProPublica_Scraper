@@ -1,7 +1,5 @@
 ## ProPublica-scraper
 
-Used this a while back.
-
 ```python
 from selenium import webdriver
 from bs4 import BeautifulSoup
